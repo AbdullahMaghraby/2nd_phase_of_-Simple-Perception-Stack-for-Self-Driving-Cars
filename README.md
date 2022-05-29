@@ -1,5 +1,5 @@
 # Second Phase Vehicle Detection (in Jupyter notebook called car_detector)
-### Note that we have upload two phases of Image processing project earlier than the deadline at this link (https://github.com/AbdullahMaghraby/Simple-Perception-Stack-for-Self-Driving-Cars) but due two submission form wer create that repository to fit the form 
+### Note that we have upload two phases of Image processing project earlier than the deadline at this link (https://github.com/AbdullahMaghraby/Simple-Perception-Stack-for-Self-Driving-Cars) but due two submission form we create that repository to fit the form 
 
 
 The goals / steps of this project are the following:
